@@ -1,0 +1,91 @@
+.px-4{
+    margin: 0px;
+    padding: 0px;
+    background: yellow;
+   
+}
+
+.s{ 
+    display:inline-flex;
+    width: 250px;
+    margin-left: 42%;
+    
+   
+}
+
+.p, .h{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.T{
+    width: 270px;
+}
+
+.a, .b{
+    padding: 10px;
+    background-color: yellow;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.T, .cat{
+    border-radius: 50%;
+    border-color: #ffe100;
+    border-style:double;
+    border-width: 10px;
+}
+
+.g{
+    background-color: yellow;
+    
+}
+
+.inspire{
+    margin-top: 50px;
+}
+
+.btn{
+    background-color: #ffe100;
+    color: black;
+    font-size: larger;
+    border: none;
+}
+
+.bottom-container{
+    padding: 70px;
+    text-align: center;
+    background-color: yellow;
+    height: 200px;
+}
+
+.footer-link{
+    padding: 10px;
+}
+
+.copyright{
+    margin-top: 25px;
+}
+
+div{
+    display: block;
+}
+
+.my-5 {
+    margin-top: 0rem !important;
+    margin-bottom: 3rem !important;
+    margin-right: 0rem;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 4rem;
+    justify-content: center;
+    align-items: center;
+  }
+  
